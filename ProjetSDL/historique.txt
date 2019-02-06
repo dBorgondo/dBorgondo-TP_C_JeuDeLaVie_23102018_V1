@@ -1,0 +1,9 @@
+Condition Initiales :
+Taille : 10  Fertilite : 3 
+
+Generation 0 : 35
+Generation 1 : 24
+Generation 2 : 22
+Generation 3 : 18
+Generation 4 : 13
+Generation 5 : 14
